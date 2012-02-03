@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>mongrelp-overlay</name>
+    <description>mongrelP overlay</description>
+    <homepage>http://github.com/mongrelP/mongrelp-overlay/wiki</homepage>
+    <owner>
+      <email>kimi.nicoco@gmail.com</email>
+      <name>Kiyohide Kimura</name>
+    </owner>
+    <source type="git">git://github.com/mongrelP/mongrelp-overlay.git</source>
+  </repo>
+</repositories>
