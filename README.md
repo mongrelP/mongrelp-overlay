@@ -10,3 +10,4 @@ kimi.nicoco@gmail.com
 http://github.com/mongrelP/mongrelp-overlay/wiki
 
 since AD2012
+copyright mongrelP
