@@ -2,13 +2,14 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>mongrelp-overlay</name>
+    <name>mongrelp</name>
     <description>mongrelP overlay</description>
     <homepage>http://github.com/mongrelP/mongrelp-overlay/wiki</homepage>
-    <owner>
+    <owner type="person">
       <email>kimi.nicoco@gmail.com</email>
       <name>Kiyohide Kimura</name>
     </owner>
     <source type="git">git://github.com/mongrelP/mongrelp-overlay.git</source>
+    <feed>https://github.com/mongrelP/mongrelp/commits/master.atom</feed>
   </repo>
 </repositories>
